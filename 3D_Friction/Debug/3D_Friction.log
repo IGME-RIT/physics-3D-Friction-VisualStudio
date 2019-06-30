@@ -1,7 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level11\physics-3d-friction-mastervs2019\3d_friction\main.cpp(744): warning C4101: 'temp': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level11\physics-3d-friction-mastervs2019\3d_friction\main.cpp(909): warning C4101: 'i': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level11\physics-3d-friction-mastervs2019\3d_friction\main.cpp(1217): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\level11\physics-3d-friction-mastervs2019\3d_friction\main.cpp(1275): warning C4326: return type of 'main' should be 'int' instead of 'void'
-d:\profiles\njp2424\desktop\physics\level11\physics-3d-friction-mastervs2019\3d_friction\main.cpp(586): warning C4715: 'overlap': not all control paths return a value
-  3D_Friction.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level11\physics-3D-Friction-masterVS2019\3D_Friction\Debug\3D_Friction.exe
